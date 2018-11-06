@@ -1,0 +1,119 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Db4objects.Db4o": "8.0.276.16149",
+          "Db4objects.Db4o.Linq": "8.0.276.16149",
+          "Db4objects.Db4o.NativeQueries": "8.0.276.16149"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Db4objects.Db4o/8.0.276.16149": {
+        "runtime": {
+          "Db4objects.Db4o.dll": {
+            "assemblyVersion": "8.0.276.16149",
+            "fileVersion": "8.0.276.16149"
+          }
+        }
+      },
+      "Db4objects.Db4o.Linq/8.0.276.16149": {
+        "runtime": {
+          "Db4objects.Db4o.Linq.dll": {
+            "assemblyVersion": "8.0.276.16149",
+            "fileVersion": "8.0.276.16149"
+          }
+        }
+      },
+      "Db4objects.Db4o.NativeQueries/8.0.276.16149": {
+        "runtime": {
+          "Db4objects.Db4o.NativeQueries.dll": {
+            "assemblyVersion": "8.0.276.16149",
+            "fileVersion": "8.0.276.16149"
+          }
+        }
+      },
+      "Mono.Reflection/1.0.0.0": {
+        "runtime": {
+          "Mono.Reflection.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cecil.FlowAnalysis/0.1.0.0": {
+        "runtime": {
+          "Cecil.FlowAnalysis.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
+      "Mono.Cecil/0.9.3.0": {
+        "runtime": {
+          "Mono.Cecil.dll": {
+            "assemblyVersion": "0.9.3.0",
+            "fileVersion": "0.9.3.0"
+          }
+        }
+      },
+      "Db4objects.Db4o.Instrumentation/8.0.276.16149": {
+        "runtime": {
+          "Db4objects.Db4o.Instrumentation.dll": {
+            "assemblyVersion": "8.0.276.16149",
+            "fileVersion": "8.0.276.16149"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Db4objects.Db4o/8.0.276.16149": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Db4objects.Db4o.Linq/8.0.276.16149": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Db4objects.Db4o.NativeQueries/8.0.276.16149": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mono.Reflection/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cecil.FlowAnalysis/0.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mono.Cecil/0.9.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Db4objects.Db4o.Instrumentation/8.0.276.16149": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
